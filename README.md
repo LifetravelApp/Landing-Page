@@ -1,4 +1,5 @@
-# README
+# README FOR LIFETRAVEL
+
 **Repositorio para la Landing Page para LifeTravel App  para el curso Aplicaciones Open Source SI729 - UPC**
 
 LifeTravel tiene como objetivo desarrollar una aplicación que le sugiera al usuario destinos según sus preferencias, además de organizar un programa de viaje acorde con su presupuesto, sugiriendo las temporadas adecuadas y los paquetes más atractivos, brindándole un servicio completo y eficiente.
